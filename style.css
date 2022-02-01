@@ -1,0 +1,12 @@
+article {
+  background-color: black;
+  padding: 10px;
+}
+
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
